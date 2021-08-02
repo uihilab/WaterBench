@@ -10,9 +10,9 @@ In the [examples](examples), four different models used in our paper is provided
 
 ## Download the Dataset
 
-The original files of the dataset can be downloaded from [here](/data/data_time_series.zip) as an archive file. The metadata is provided in the archive file.  
+The original files of the dataset can be downloaded from [here](/data/rawData/data_time_series.zip) as an archive file. The metadata is provided in the archive file.  
 
-The files that we used in sample codes can be downloaded from [here](/data/data_ready.zip) as an archive file. The metadata is provided in the archive file. 
+The files that we used in sample codes can be downloaded from [here](/data/codeData) as an archive file. The metadata is provided in the archive file. 
 
 ## Citation
 If you use the specification or flood event inventory please cite the following publication:  
