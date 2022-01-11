@@ -16,7 +16,7 @@ The files that we used in sample codes can be downloaded from [here](/data/codeD
 
 ## Citation
 If you use the specification or flood event inventory please cite the following publication:  
-Zhongrun Xiang, Bekir Z Demiray, Muhammet Sit and Ibrahim Demir. (2021). WaterBench: A Large-scale Benchmark Dataset for Data-Driven Streamflow Forecasting. EarthArXiv. DOI
+Zhongrun Xiang, Bekir Z Demiray, Muhammet Sit and Ibrahim Demir. (2021). WaterBench: A Large-scale Benchmark Dataset for Data-Driven Streamflow Forecasting. EarthArXiv. DOI:
 https://doi.org/10.31223/X57W6T
 
 ## Feedback
