@@ -1,4 +1,4 @@
-# WaterBench
+# WaterBench-Iowa
 ## A Large-scale Benchmark Dataset for Data-Driven Streamflow Forecasting
 
 Welcome to the main repository of the WaterBench, a large-scale benchmark dataset for streamflow forecasting. The dataset covers the 125 catchments in Iowa, US with seven different features, including precipitation, streamflow rate and ET with available data from October 1st, 2011 (the water year 2012) to September 30th, 2018 (the water year 2018). 
